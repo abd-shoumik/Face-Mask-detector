@@ -1,4 +1,5 @@
 # Face-Mask-detector
+## Find details from my video: (https://youtu.be/-x5jZwjrdGM)
 
 ## File Details
 * `Model_training.py`: Use this python file to train your model
